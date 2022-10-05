@@ -7,7 +7,7 @@
  * Author: Softmint LLC
  * Author URI: https://softmint.net
  *
- * Text Domain: Shopimint-Api
+ * Text Domain: shopimint-api
  */
 
 defined('ABSPATH') or wp_die('No script kiddies please!');
