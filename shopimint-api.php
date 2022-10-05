@@ -3,7 +3,7 @@
  * Plugin Name: Shopimint - Mobile App Builder For Woocommerce
  * Plugin URI: https://github.com/softmint-it/shopimint-api
  * Description: The Shopimint API Plugin which is used for the Shopimint and ShopimintApp Mobile App
- * Version: 3.6.4
+ * Version: 3.6.5
  * Author: Softmint LLC
  * Author URI: https://softmint.net
  *
