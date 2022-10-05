@@ -13,8 +13,6 @@ The plugin is used for config the Shopimint mobile and support RestAPI to connec
 
 The plugin is used for config the Shopimint mobile and support RestAPI to connect to the app.
 
-[youtube https://youtu.be/sYnHhnS5WnQ]
-
 ##CONVERT,ENGAGE & SELL MORE ON MOBILE
 
 Turn your ecommerce store into a mobile app in minutes without any code or design skills.Increase conversion up to 4X with excellent shopping experience, fast checkout and push notifications.
